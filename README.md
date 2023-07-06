@@ -1,4 +1,4 @@
-# LittleLemon
+# LittleLemon Project
 
 A Littlelemon app with a booking form and a list of reservations made.
 
